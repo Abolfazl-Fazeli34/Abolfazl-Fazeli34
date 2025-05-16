@@ -62,5 +62,3 @@
 </p>
 
 <br />
-
-⭐️ From [Sabzlearn ❤️](https://sabzlearn.ir/)
