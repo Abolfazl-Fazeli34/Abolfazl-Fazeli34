@@ -67,7 +67,7 @@
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@Rad_Front-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://web.telegram.org/a/" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-@AminKhoy78-0088cc?style=for-the-badge&logo=telegram" />
   </a>
 </p>
