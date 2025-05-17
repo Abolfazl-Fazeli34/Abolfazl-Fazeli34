@@ -20,32 +20,34 @@
 
 ### 🚀 Tech Stack
 
-<div align="left">
-
-#### 🧠 Languages & Backend
-
-<img src="https://skillicons.dev/icons?i=python,django,js" height="40" style="margin:10px"/>
-
-#### 🌐 Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap" height="40" style="margin:10px"/>
-
-#### 🧩 Databases & Tools
-
-<img src="https://skillicons.dev/icons?i=mysql,git,github" height="40" style="margin:10px"/>
-<img src="https://skillicons.dev/icons?i=postgresql" height="40" style="margin:10px"/>
-
-
-#### 💻 IDEs & Editors
-
-<img src="https://skillicons.dev/icons?i=vscode" height="40" style="margin:10px"/>
-<img src="https://skillicons.dev/icons?i=pycharm" height="40" style="margin:10px"/>
-<img src="https://skillicons.dev/icons?i=phpstorm" height="40" style="margin:10px"/>
-
-#### 🎨 Design Tools
-
-<img src="https://skillicons.dev/icons?i=photoshop,illustrator" height="40" style="margin:10px"/>
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h4>🧠 Languages & Backend</h4>
+        <img src="https://skillicons.dev/icons?i=python,django,js" height="40" style="margin:10px"/>
+      </td>
+      <td align="center">
+        <h4>🌐 Frontend</h4>
+        <img src="https://skillicons.dev/icons?i=html,css,bootstrap" height="40" style="margin:10px"/>
+      </td>
+      <td align="center">
+        <h4>🧩 Databases & Tools</h4>
+        <img src="https://skillicons.dev/icons?i=mysql,git,github,postgresql" height="40" style="margin:10px"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <h4>💻 IDEs & Editors</h4>
+        <img src="https://skillicons.dev/icons?i=vscode,pycharm,phpstorm" height="40" style="margin:10px"/>
+      </td>
+      <td align="center">
+        <h4>🎨 Design Tools</h4>
+        <img src="https://skillicons.dev/icons?i=photoshop,illustrator" height="40" style="margin:10px"/>
+      </td>
+      <td></td>
+    </tr>
+  </table>
 </div>
 
 ---
