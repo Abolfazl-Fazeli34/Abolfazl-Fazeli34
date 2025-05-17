@@ -62,10 +62,10 @@
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://instagram.com/rad_front/" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@Rad_Front-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://t.me/aminkhoy78/" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-@AminKhoy78-0088cc?style=for-the-badge&logo=telegram" />
   </a>
 </p>
