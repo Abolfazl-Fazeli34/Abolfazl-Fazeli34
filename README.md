@@ -3,8 +3,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Django+Developer;Frontend+Mentor+at+Sabzlearn;IT+Student;Always+Coding...☕&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00C2FF&center=true&width=500&lines=Back-End+Developer+%7C+Django+Lover;Passionate+about+clean+%26+scalable+REST+APIs;Project-Based+Web+Developer;Lifelong+Learner+%26+Problem+Solver;Code+%2B+Coffee+%3D+❤️">
 </p>
+
 
 ---
 
@@ -32,12 +33,14 @@
 #### 🧩 Databases & Tools
 
 <img src="https://skillicons.dev/icons?i=mysql,git,github" height="40" style="margin:10px"/>
+<img src="https://skillicons.dev/icons?i=postgresql" height="40" style="margin:10px"/>
+
 
 #### 💻 IDEs & Editors
 
 <img src="https://skillicons.dev/icons?i=vscode" height="40" style="margin:10px"/>
-<img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" height="30"/>
+<img src="https://skillicons.dev/icons?i=pycharm" height="40" style="margin:10px"/>
+<img src="https://skillicons.dev/icons?i=phpstorm" height="40" style="margin:10px"/>
 
 #### 🎨 Design Tools
 
@@ -59,9 +62,6 @@
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://sabzlearn.ir/" target="_blank">
-    <img src="https://img.shields.io/badge/My Website-Sabzlearn.ir-blue?style=for-the-badge&logo=google-chrome" />
-  </a>
   <a href="https://instagram.com/rad_front/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@Rad_Front-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
