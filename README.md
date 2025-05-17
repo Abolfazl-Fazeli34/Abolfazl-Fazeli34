@@ -1,10 +1,11 @@
 <h1 align="center">
-  👋 سلام! من <span style="color:#ff4d4d;">Abolfazl Fazeli</span> هستم
+  👋 Hello! I'm <span style="color:#ff4d4d;">Abolfazl Fazeli</span>
 </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00C2FF&center=true&width=500&lines=Back-End+Developer+%7C+Django+Lover;Passionate+about+clean+%26+scalable+REST+APIs;Project-Based+Web+Developer;Lifelong+Learner+%26+Problem+Solver;Code+%2B+Coffee+%3D+❤️" alt="Typing SVG" />
 </p>
+
 
 ---
 
