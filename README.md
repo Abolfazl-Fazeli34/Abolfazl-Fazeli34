@@ -9,11 +9,11 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔥 &nbsp; Javascript Instructor at **Sabzlearn**
-- 🎓 &nbsp; IT Student at University
-- 💼 &nbsp; Full-time MERN Stack Developer
-- 🛠 &nbsp; Backend Lover — Exploring Django & REST API
-- ☕ &nbsp; Code + Coffee = ❤️
+- 🔧 &nbsp; Back-End Developer with a strong focus on **Django**
+- 🚀 &nbsp; Passionate about building clean, powerful, and scalable **REST APIs**
+- 🧑‍💼 &nbsp; Working project-based on various real-world web applications
+- 🧠 &nbsp; Always learning, always improving
+- ☕ &nbsp; I write code with coffee and purpose
 
 ---
 
