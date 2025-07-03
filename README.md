@@ -25,7 +25,7 @@
   <tr>
     <td align="center">
       <strong>🧠 Languages & Backend</strong><br>
-      <img src="https://skillicons.dev/icons?i=python,django,js" height="40" />
+      <img src="https://skillicons.dev/icons?i=python,django,js,vue" height="40" />
     </td>
     <td align="center">
       <strong>🌐 Frontend</strong><br>
@@ -39,13 +39,16 @@
   <tr>
     <td align="center">
       <strong>💻 IDEs & Editors</strong><br>
-      <img src="https://skillicons.dev/icons?i=vscode,pycharm,phpstorm" height="40" />
+      <img src="https://skillicons.dev/icons?i=vscode,pycharm,phpstorm,webstorm" height="40" />
     </td>
     <td align="center">
       <strong>🎨 Design Tools</strong><br>
       <img src="https://skillicons.dev/icons?i=photoshop,illustrator" height="40" />
     </td>
-    <td></td>
+    <td align="center">
+      <strong>🖥️ Operating Systems</strong><br>
+      <img src="https://skillicons.dev/icons?i=linux,windows" height="40" />
+    </td>
   </tr>
 </table>
 
