@@ -63,28 +63,4 @@ Currently, I hold advanced certifications (**LPIC-3, Network+**) and I am levera
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abolfazl-Fazeli34&theme=tokyonight&hide_border=true&background=0D1117" width="98%" />
-</div>
 
----
-
-### Connect
-
-<div align="center"> 
-  <a href="https://web.telegram.org/a/" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-@AminKhoy78-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@Rad_Front-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
-<br>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=100&section=footer" />
-</p>
